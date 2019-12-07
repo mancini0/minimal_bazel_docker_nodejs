@@ -1,0 +1,17 @@
+{
+  "name": "myjsproj",
+  "version": "1.0.0",
+  "main": "App.ts",
+  "description": "exploring bazel js rules",
+  "devDependencies": {
+    "@bazel/bazel": "latest",
+    "@bazel/ibazel": "latest",
+    "@bazel/buildifier": "latest",
+    "@bazel/typescript": "latest",
+    "typescript": "~3.4.0"
+  },
+
+  "dependencies": {},
+  "author": "",
+  "license": "ISC"
+}
